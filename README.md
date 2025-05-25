@@ -3,7 +3,8 @@ Library to render gc/wii fifo captures. it works barely enough to incorrectly re
 
 ![Screenshot 2025-05-24 at 10 05 57 PM](https://github.com/user-attachments/assets/0b3df145-1d9f-49dc-aaf1-49efcbfbf98f)
 ### Bild instroction
-if yor on big endnyan U shoud find `#define LE 1` in main and make it 0
+if yor on big endnyan U shoud find `#define LE 1` in main and make it 0.
+
 type `./build` in yor termannal.
 
 ### todo
